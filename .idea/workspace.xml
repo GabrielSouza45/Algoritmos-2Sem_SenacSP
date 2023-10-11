@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cdec428-e3ad-4cfd-884b-237188aad2f6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ADO03_Media/ADO03_Media.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADO_02/ADO_02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/Calculadora.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compra_Online/Compra_Online.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Media/Media.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oraculo/Oraculo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pizzaria/Pizzaria.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WccMhJfGnB1SLRH5E621TpUr9k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Gabriel Freitas/Desktop/Programação/Algoritmos-2Sem_SenacSP"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cdec428-e3ad-4cfd-884b-237188aad2f6" name="Changes" comment="" />
+      <created>1697035263102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697035263102</updated>
+    </task>
+    <servers />
+  </component>
+</project>

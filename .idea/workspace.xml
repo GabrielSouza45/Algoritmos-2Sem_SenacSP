@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cdec428-e3ad-4cfd-884b-237188aad2f6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ADO03_Media/ADO03_Media.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ADO_02/ADO_02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculadora/Calculadora.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compra_Online/Compra_Online.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Media/Media.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oraculo/Oraculo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pizzaria/Pizzaria.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADO07_Treino01/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +24,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Gabriel Freitas/Desktop/Programação/Algoritmos-2Sem_SenacSP"
+    "last_opened_file_path": "C:/Users/Gabriel Freitas/Desktop/Programação/Algoritmos-2Sem_SenacSP/ADO07_Treino01"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
